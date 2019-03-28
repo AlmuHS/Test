@@ -7,7 +7,7 @@ int main()
 {
     Calculator calc;
 
-    std::cout<<calc.sum(1,2);
+    std::cout<<calc.sum(1,-2);
 
     return 0;
 }
