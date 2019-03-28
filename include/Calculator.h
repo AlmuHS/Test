@@ -8,6 +8,7 @@ class Calculator
         Calculator();
 
         int sum(int n1, int n2);
+        int subtraction(int n1, int n2);
 
     protected:
 
