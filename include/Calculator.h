@@ -7,6 +7,8 @@ class Calculator
     public:
         Calculator();
 
+        int sum(int n1, int n2);
+
     protected:
 
     private:
